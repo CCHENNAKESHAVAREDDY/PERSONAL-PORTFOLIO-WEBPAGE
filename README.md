@@ -43,3 +43,7 @@ Showcase technical and creative abilities.
 Facilitate professional networking and job opportunities.
 
 # OUTPUT #
+
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/80cf4e14-d41f-467d-94da-cefff9e83f91" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/a3138209-df59-47f2-b41e-ec71a019cf6f" />
+<img width="1920" height="1200" alt="Image" src="https://github.com/user-attachments/assets/668801a5-18e4-4fbe-8347-d5941b5dec4a" />
